@@ -103,7 +103,7 @@ Inductive train-validation-test split using random edge split on the OGB benchma
 
 [2] Weihua Hu, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, and Jure Leskovec. 2020. Open Graph Benchmark: Datasets for Machine Learning on Graphs. https://arxiv.org/abs/2005.00687
 
-# Cite Our Work
+# BibTex
 
 If you find our work useful in your research, please add the following citation:
 
