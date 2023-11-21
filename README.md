@@ -102,3 +102,18 @@ Inductive train-validation-test split using random edge split on the OGB benchma
 [1] William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. Inductive Representation Learning on Large Graphs. https://arxiv.org/abs/1706.02216
 
 [2] Weihua Hu, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, and Jure Leskovec. 2020. Open Graph Benchmark: Datasets for Machine Learning on Graphs. https://arxiv.org/abs/2005.00687
+
+# Cite Our Work
+
+If you find our work useful in your research, please add the following citation:
+
+```
+@inproceedings{
+chatterjee2023inductive,
+title={Inductive Link Prediction in Static and Temporal Graphs for Isolated Nodes},
+author={Ayan Chatterjee and Robin Walters and Giulia Menichetti and Tina Eliassi-Rad},
+booktitle={Temporal Graph Learning Workshop @ NeurIPS 2023},
+year={2023},
+url={https://openreview.net/forum?id=DRrSYKNhD1}
+}
+```
